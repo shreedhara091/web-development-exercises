@@ -42,7 +42,25 @@ The purpose of this repository is to document my progress while learning web dev
 
 **3 / 18 exercises completed**
 
-More exercises will be added as I continue learning.
+- [x] Exercise 01
+- [x] Exercise 02
+- [x] Exercise 03
+- [ ] Exercise 04
+- [ ] Exercise 05
+- [ ] Exercise 06
+- [ ] Exercise 07
+- [ ] Exercise 08
+- [ ] Exercise 09
+- [ ] Exercise 10
+- [ ] Exercise 11
+- [ ] Exercise 12
+- [ ] Exercise 13
+- [ ] Exercise 14
+- [ ] Exercise 15
+- [ ] Exercise 16
+- [ ] Exercise 17
+- [ ] Exercise 18
+
 
 ## 👨‍💻 Author
 
