@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation Bar</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+        }
+
+        body {
+            background-color: var(--third-color);
+        }
+
+        :root {
+            --first-color: rgb(40, 40, 159);
+            --third-color: #6ea5fccc;
+            --second-color: white;
+        }
+
+        ul li a {
+
+            color: var(--second-color);
+            text-decoration: none;
+            /* background-color: var(--first-color); */
+            padding: 0;
+            margin: 0;
+            cursor: pointer;
+        }
+
+        li {
+
+            display: inline;
+            padding: 10px;
+            /* background-color: var(--first-color); */
+            font-weight: bolder;
+        }
+        nav {
+            background-color: var(--first-color);
+
+            padding: 10px;
+
+        }
+        @media only screen and (max-width: 455px) {
+            body {
+                background-color: var(--third-color)
+            }
+
+            .media {
+                display: flex;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="exercise4.html">Home</a></li>
+                <li><a href="exercise4.html">Service</a></li>
+                <li><a href="exercise4.html">About</a></li>
+                <li><a href="exercise4.html">Contact Us</a></li>
+
+
+            </ul>
+        </nav>
+    </header>
+</body>
+
+</html>
